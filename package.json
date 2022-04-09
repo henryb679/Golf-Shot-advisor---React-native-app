@@ -11,7 +11,7 @@
     "constants": "0.0.2",
     "firebase": "^6.5.0",
     "install": "^0.13.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.26",
     "native-base": "^2.13.8",
     "navigationbar-react-native": "0.0.5",
